@@ -96,9 +96,6 @@ return nums;
 
 
 
-
-
-
 ////////// PROBLEM 6 //////////
 
 // Do not edit the code below.
